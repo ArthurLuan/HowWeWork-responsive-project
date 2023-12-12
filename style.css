@@ -7,12 +7,14 @@
   font-size: 62.5%; /*10px*/
 }
 
-body {
   /* Reset */
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
 
+body {
   /* Body styles*/
   background: var(--bg-light);
   padding: 60px 23px 66px 23px;
